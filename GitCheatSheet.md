@@ -17,3 +17,10 @@
 -> renames file or converts file type! 
 -> If done manualy in explorer git sees it as a new file ans loses all version information!!
 
+##git status 
+-> status of working directory and staging area
+
+##git cat [filename]	
+-> shows contents of file 
+
+
