@@ -1,3 +1,3 @@
 # Git branching_merging
 
-cannot push if an open new branch is there 
+push new branch via git push -u origin branchname
